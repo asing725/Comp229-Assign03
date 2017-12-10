@@ -1,0 +1,16 @@
+﻿/* Custom style sheet */
+
+.jumbotron {
+    height: "100%";
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+    color: #FFFFFF;
+}
+
+Body {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+hr {
+    background-color: #FFFFFF;
+}
